@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="310" viewBox="0 0 600 310" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Faye · a catnap among the stars</title><desc id="desc">A sleepy cat hangs its paws over the page edge. Pixel moon and star charms dangle beside hand-lettered pixel type.</desc>
+<defs>
+    <path id="star" d="M-5-20H5V-10H10V-5H20V5H10V10H5V20H-5V10H-10V5H-20V-5H-10V-10H-5Z"/>
+    <path id="tiny" d="M-3-9H3V-3H9V3H3V9H-3V3H-9V-3H-3Z"/>
+    <path id="moon" d="M-2-29H16V-22H5V-15H-2V7H5V14H12V21H26V14H33V3H40V21H33V28H26V35H5V28H-9V21H-16V7H-23V-8H-16V-22H-9V-29Z"/>
+    <g id="paw" fill="#668FAF"><rect x="-6" y="2" width="12" height="8"/><rect x="-10" y="-6" width="5" height="6"/><rect x="-2" y="-10" width="5" height="6"/><rect x="6" y="-5" width="5" height="6"/></g>
+  </defs>
+<path d="M18 94H364M459 94H582M18 94V108M582 94V108" stroke="#4E7798" stroke-width="2"/>
+<g transform="translate(-183 7) scale(.68)">  <!-- Tail, back, and a soft belly lying along the page edge. -->
+  <g stroke="#A0C9E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1041 97C1082 98 1110 81 1104 57C1101 44 1085 42 1080 53C1077 60 1083 67 1090 63" stroke-width="13" stroke="#19344D"/>
+    <path d="M1041 91C1078 96 1104 78 1098 58C1097 53 1090 51 1087 56"/>
+    <path d="M931 91C948 62 966 49 1000 54C1028 57 1048 78 1052 99C1055 113 1047 123 1034 127H938Z" fill="#19344D"/>
+    <path d="M991 113C1005 107 1020 111 1021 125"/>
+    <!-- Head flopped forward, little ears left soft rather than pointed. -->
+    <path d="M826 84C819 69 819 50 826 48C834 46 845 57 854 66C868 62 887 62 900 67C910 55 920 47 926 51C933 56 929 75 925 87C936 103 931 123 916 131C898 140 852 141 833 129C818 120 816 99 826 84Z" fill="#244660"/>
+    <path d="M830 61L842 70L830 76M911 72L922 61L921 80" fill="#477694" stroke="none"/>
+    <path d="M837 100Q845 107 853 99M889 100Q897 107 905 99"/>
+    <path d="M865 113L871 116L877 112M871 117Q867 122 863 120M871 117Q875 122 879 120" stroke-width="2"/>
+    <path d="M821 108L806 104M821 116L804 119M930 108L944 104M930 117L945 120" stroke-width="1.8"/>
+    <!-- Two paws cross the rule and hang below it. -->
+    <path d="M839 124C832 135 832 151 840 156C845 161 855 158 858 151L860 137" fill="#244660"/>
+    <path d="M891 134C889 148 892 157 899 158C907 160 914 155 914 148L912 125" fill="#244660"/>
+    <path d="M842 149V155M850 149V155M900 150V156M907 149V154" stroke-width="1.4"/>
+  </g>
+  <g fill="#A991B2" opacity=".8" shape-rendering="crispEdges">
+    <rect x="832" y="112" width="5" height="4"/><rect x="839" y="114" width="5" height="4"/>
+    <rect x="902" y="114" width="5" height="4"/><rect x="909" y="111" width="5" height="4"/>
+  </g>
+</g>
+<g transform="translate(-29 10) scale(.84)"><g fill="#A0C9E5" shape-rendering="crispEdges">
+    <rect x="161" y="184" width="12" height="12"/>
+    <rect x="173" y="184" width="12" height="12"/>
+    <rect x="185" y="184" width="12" height="12"/>
+    <rect x="197" y="184" width="12" height="12"/>
+    <rect x="209" y="184" width="12" height="12"/>
+    <rect x="161" y="196" width="12" height="12"/>
+    <rect x="161" y="208" width="12" height="12"/>
+    <rect x="161" y="220" width="12" height="12"/>
+    <rect x="173" y="220" width="12" height="12"/>
+    <rect x="185" y="220" width="12" height="12"/>
+    <rect x="197" y="220" width="12" height="12"/>
+    <rect x="161" y="232" width="12" height="12"/>
+    <rect x="161" y="244" width="12" height="12"/>
+    <rect x="161" y="256" width="12" height="12"/>
+    <rect x="245" y="208" width="12" height="12"/>
+    <rect x="257" y="208" width="12" height="12"/>
+    <rect x="269" y="208" width="12" height="12"/>
+    <rect x="281" y="220" width="12" height="12"/>
+    <rect x="245" y="232" width="12" height="12"/>
+    <rect x="257" y="232" width="12" height="12"/>
+    <rect x="269" y="232" width="12" height="12"/>
+    <rect x="281" y="232" width="12" height="12"/>
+    <rect x="233" y="244" width="12" height="12"/>
+    <rect x="281" y="244" width="12" height="12"/>
+    <rect x="245" y="256" width="12" height="12"/>
+    <rect x="257" y="256" width="12" height="12"/>
+    <rect x="269" y="256" width="12" height="12"/>
+    <rect x="281" y="256" width="12" height="12"/>
+    <rect x="305" y="208" width="12" height="12"/>
+    <rect x="353" y="208" width="12" height="12"/>
+    <rect x="305" y="220" width="12" height="12"/>
+    <rect x="353" y="220" width="12" height="12"/>
+    <rect x="305" y="232" width="12" height="12"/>
+    <rect x="353" y="232" width="12" height="12"/>
+    <rect x="317" y="244" width="12" height="12"/>
+    <rect x="329" y="244" width="12" height="12"/>
+    <rect x="341" y="244" width="12" height="12"/>
+    <rect x="353" y="244" width="12" height="12"/>
+    <rect x="353" y="256" width="12" height="12"/>
+    <rect x="317" y="268" width="12" height="12"/>
+    <rect x="329" y="268" width="12" height="12"/>
+    <rect x="341" y="268" width="12" height="12"/>
+    <rect x="389" y="208" width="12" height="12"/>
+    <rect x="401" y="208" width="12" height="12"/>
+    <rect x="413" y="208" width="12" height="12"/>
+    <rect x="377" y="220" width="12" height="12"/>
+    <rect x="425" y="220" width="12" height="12"/>
+    <rect x="377" y="232" width="12" height="12"/>
+    <rect x="389" y="232" width="12" height="12"/>
+    <rect x="401" y="232" width="12" height="12"/>
+    <rect x="413" y="232" width="12" height="12"/>
+    <rect x="425" y="232" width="12" height="12"/>
+    <rect x="377" y="244" width="12" height="12"/>
+    <rect x="389" y="256" width="12" height="12"/>
+    <rect x="401" y="256" width="12" height="12"/>
+    <rect x="413" y="256" width="12" height="12"/>
+    <rect x="425" y="256" width="12" height="12"/>
+  </g></g>
+<g stroke="#4E7798" stroke-width="1.6" stroke-linecap="round">
+<path d="M52 97V190M52 94C39 85 44 80 51 90C62 79 69 88 55 95"/>
+<path d="M379 97V150M378 94C365 85 371 80 377 90C388 77 396 88 381 95"/>
+<path d="M546 97V213M546 94C531 85 536 80 544 90C553 80 561 86 549 96"/>
+</g>
+<g stroke="#A0C9E5" stroke-width="1.8">
+<use href="#star" transform="translate(52 212) scale(.8)" fill="#19344D"/>
+<use href="#moon" transform="translate(372 177) scale(.8)" fill="#BDD9EE"/>
+<use href="#star" transform="translate(546 238) scale(.8)" fill="#19344D"/>
+</g>
+<g fill="#668FAF">
+<path d="M334 53H346V56H343V59H340V62H346V65H334V62H337V59H340V56H334Z"/>
+<path d="M310 31H320V34H317V37H314V40H320V43H310V40H313V37H316V34H310Z" opacity=".6"/>
+<use href="#tiny" transform="translate(443 201) scale(.45)"/>
+<use href="#paw" transform="translate(405 274) rotate(18) scale(.72)" opacity=".55"/>
+<use href="#paw" transform="translate(437 262) rotate(10) scale(.72)" opacity=".7"/>
+<rect x="318" y="126" width="3" height="3"/>
+<rect x="498" y="279" width="3" height="3"/>
+</g>
+<path d="M106 269H188" stroke="#4E7798" stroke-width="1.5" stroke-dasharray="2 6"/>
+<text x="219" y="276" fill="#A0C9E5" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="20" letter-spacing="4">木叶</text>
+<g transform="translate(482 155) rotate(-15)" stroke="#4E7798" stroke-width="1.6"><path d="M-24 0Q-9-20 6 0Q-9 20-24 0ZM6 0L17-9V9Z" fill="#19344D"/><circle cx="-16" cy="-2" r="1.2" fill="#A0C9E5"/></g>
+</svg>
