@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">An open book with a constellation rising from its pages</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#F1F7FB"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#9DBDCF" stroke-width="1.2"/>
+<g stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M252 185Q198 162 122 177V73Q200 61 252 89Q304 62 380 73V177Q305 162 252 185Z" fill="#FBFDFF"/>
+<path d="M252 89V185M130 186Q201 173 252 195Q303 173 373 186" stroke="#9DBDCF"/>
+<path d="M148 104L196 84L221 119L178 141L148 104M196 84L180 53L230 37L271 58L307 29L341 61" stroke="#9DBDCF" stroke-dasharray="3 5"/>
+<g fill="#A5BBD1"><circle cx="148" cy="104" r="4"/><circle cx="196" cy="84" r="4"/><circle cx="221" cy="119" r="4"/><circle cx="178" cy="141" r="4"/><circle cx="180" cy="53" r="4"/><circle cx="271" cy="58" r="4"/></g>
+<use href="#spark" transform="translate(230 37)"/><use href="#spark" transform="translate(307 29) scale(.75)"/>
+<path d="M281 110H351M281 127H333M281 144H345" stroke="#9DBDCF"/>
+<path d="M331 81V109L339 103L347 109V79" fill="#DDEEF8"/>
+<path d="M102 151Q77 127 85 103Q107 112 102 151M102 151V180" stroke="#9DBDCF"/>
+<use href="#spark" transform="translate(417 129) scale(.8)"/>
+</g>
+<g fill="#9DBDCF"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>

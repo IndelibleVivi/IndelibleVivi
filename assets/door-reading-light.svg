@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">A stack of little reading volumes with a bookmark and a teacup</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#F1F7FB"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#9DBDCF" stroke-width="1.2"/>
+<g stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<g transform="translate(132 48) rotate(-5)"><rect width="161" height="150" rx="4" fill="#FBFDFF"/><path d="M17 0V150" stroke="#9DBDCF"/><path d="M106 0V48L117 39L128 48V0" fill="#F2EDDF"/><path d="M43 67H123M43 82H111M43 97H119" stroke="#9DBDCF"/></g>
+<path d="M130 203H309M126 214H316" stroke="#9DBDCF"/>
+<path d="M334 129H393V167Q391 188 365 188Q338 188 334 167Z" fill="#FBFDFF"/>
+<path d="M394 138H405Q423 138 418 153Q414 164 395 163M325 198H405" stroke="#9DBDCF"/>
+<path d="M349 114Q341 101 350 91M368 110Q380 98 369 81" stroke="#9DBDCF"/>
+<use href="#spark" transform="translate(364 45)"/><use href="#spark" transform="translate(79 117) scale(.65)"/>
+<path d="M87 179h5v5h5v-5h5v10h-5v5h-5v-5h-5Z" fill="#C9BCA0" stroke="none"/>
+</g>
+<g fill="#9DBDCF"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>

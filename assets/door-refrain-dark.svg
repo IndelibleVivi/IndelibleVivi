@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">A tiny music box and a floating melody</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#11202D"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#547991" stroke-width="1.2"/>
+<g stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M105 164Q69 140 78 112Q83 95 101 101" stroke="#547991"/>
+<path d="M384 164Q421 156 416 125" stroke="#547991"/>
+<rect x="137" y="72" width="246" height="123" rx="8" fill="#172B3C"/>
+<path d="M137 149H383M158 176H361" stroke="#547991"/>
+<rect x="163" y="92" width="194" height="53" rx="4" fill="#284A62"/>
+<circle cx="197" cy="118" r="15"/><circle cx="323" cy="118" r="15"/>
+<path d="M197 103V133M182 118H212M323 103V133M308 118H338M215 118H305" stroke="#547991"/>
+<path d="M237 165V178M258 162L272 170L258 178ZM292 165V178" fill="#A1C6DE" stroke="none"/>
+<path d="M252 61V30L286 24V52M252 39L286 33" stroke-width="3"/>
+<ellipse cx="245" cy="63" rx="8" ry="5" fill="#A1C6DE"/><ellipse cx="279" cy="54" rx="8" ry="5" fill="#A1C6DE"/>
+<use href="#spark" transform="translate(103 56)"/><use href="#spark" transform="translate(417 80) scale(.75)"/>
+<path d="M433 170h5v5h5v-5h5v10h-5v5h-5v-5h-5Z" fill="#BB9CAE" stroke="none"/>
+</g>
+<g fill="#547991"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>

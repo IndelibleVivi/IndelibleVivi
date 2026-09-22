@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">Two little plugs join across a bridge of pixel stars</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#F1F7FB"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#9DBDCF" stroke-width="1.2"/>
+<g stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M35 176H82Q99 176 99 155V124M421 121V153Q421 176 441 176H482" stroke="#9DBDCF" stroke-width="3"/>
+<path d="M103 88H167V155H103Z" fill="#FBFDFF"/>
+<path d="M167 102H190V141H167M113 88V68M156 88V68"/>
+<path d="M353 88H417V155H353Z" fill="#FBFDFF"/>
+<path d="M330 102H353V141H330M364 88V68M406 88V68"/>
+<path d="M193 121H326" stroke="#9DBDCF" stroke-dasharray="3 7"/>
+<use href="#spark" transform="translate(261 122) scale(1.35)" fill="#DDEEF8"/>
+<path d="M220 70Q260 47 300 70M230 182Q260 196 290 182" stroke="#9DBDCF"/>
+<circle cx="260" cy="40" r="5" fill="#A5BBD1"/>
+<path d="M123 114L137 122L123 130M393 114L379 122L393 130"/>
+<use href="#spark" transform="translate(76 63) scale(.7)"/><use href="#spark" transform="translate(448 100) scale(.6)"/>
+</g>
+<g fill="#9DBDCF"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>

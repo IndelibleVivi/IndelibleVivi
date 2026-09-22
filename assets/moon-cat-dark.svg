@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Faye · a catnap among the stars</title>
-  <desc id="desc">A sleepy line-drawn cat flops over the top of the page, its paws dangling over the edge. Pixel moons and stars hang from knotted threads. Faye is lettered in hand-placed pixels, with a tiny fish and pawprints nearby.</desc>
+  <title id="title">IndelibleVivi · a catnap among the stars</title>
+  <desc id="desc">A sleepy line-drawn cat flops over the top of the page, its paws dangling over the edge. Pixel moons and stars hang from knotted threads. IndelibleVivi is lettered in hand-placed pixels, with a tiny fish and pawprints nearby.</desc>
   <defs>
     <path id="star" d="M-5-20H5V-10H10V-5H20V5H10V10H5V20H-5V10H-10V5H-20V-5H-10V-10H-5Z"/>
     <path id="tiny" d="M-3-9H3V-3H9V3H3V9H-3V3H-9V-3H-3Z"/>
@@ -18,81 +18,180 @@
   <!-- Fine strings with little tied loops: each charm has its own drop. -->
   <g stroke="#4E7798" stroke-width="1.7" stroke-linecap="round">
     <path d="M97 131V238M96 128C81 122 85 114 91 118L101 135M99 128C111 115 116 122 105 129"/>
-    <path d="M527 131V166M526 128C513 117 521 113 528 124C539 111 544 122 529 130"/>
-    <path d="M660 131V267M659 128C648 123 650 115 657 120L663 133"/>
-    <path d="M750 131V197"/>
+    <path d="M527 131V140M526 128C513 117 521 113 528 124C539 111 544 122 529 130"/>
+    <path d="M660 131V163M659 128C648 123 650 115 657 120L663 133"/>
+    <path d="M750 131V173"/>
     <path d="M1116 131V214M1115 128C1100 116 1107 111 1116 124C1129 110 1134 123 1119 129"/>
   </g>
   <g stroke="#A0C9E5" stroke-width="2" stroke-linejoin="miter">
     <use href="#star" transform="translate(97 264)" fill="#19344D"/>
-    <use href="#moon" transform="translate(521 190) scale(.85)" fill="#BDD9EE"/>
-    <use href="#star" transform="translate(660 288) scale(.72)" fill="#476D8B"/>
-    <use href="#tiny" transform="translate(750 209)" fill="#19344D"/>
+    <use href="#moon" transform="translate(521 165) scale(.85)" fill="#BDD9EE"/>
+    <use href="#star" transform="translate(660 181) scale(.72)" fill="#476D8B"/>
+    <use href="#tiny" transform="translate(750 185)" fill="#19344D"/>
     <use href="#star" transform="translate(1116 240) scale(.92)" fill="#19344D"/>
   </g>
   <path d="M1116 259V283" stroke="#4E7798" stroke-width="1.7"/>
   <use href="#tiny" transform="translate(1116 297) scale(.65)" fill="#668FAF"/>
-  <g fill="#A0C9E5" shape-rendering="crispEdges">
-    <rect x="161" y="184" width="12" height="12"/>
-    <rect x="173" y="184" width="12" height="12"/>
-    <rect x="185" y="184" width="12" height="12"/>
-    <rect x="197" y="184" width="12" height="12"/>
-    <rect x="209" y="184" width="12" height="12"/>
-    <rect x="161" y="196" width="12" height="12"/>
-    <rect x="161" y="208" width="12" height="12"/>
-    <rect x="161" y="220" width="12" height="12"/>
-    <rect x="173" y="220" width="12" height="12"/>
-    <rect x="185" y="220" width="12" height="12"/>
-    <rect x="197" y="220" width="12" height="12"/>
-    <rect x="161" y="232" width="12" height="12"/>
-    <rect x="161" y="244" width="12" height="12"/>
-    <rect x="161" y="256" width="12" height="12"/>
-    <rect x="245" y="208" width="12" height="12"/>
-    <rect x="257" y="208" width="12" height="12"/>
-    <rect x="269" y="208" width="12" height="12"/>
-    <rect x="281" y="220" width="12" height="12"/>
-    <rect x="245" y="232" width="12" height="12"/>
-    <rect x="257" y="232" width="12" height="12"/>
-    <rect x="269" y="232" width="12" height="12"/>
-    <rect x="281" y="232" width="12" height="12"/>
-    <rect x="233" y="244" width="12" height="12"/>
-    <rect x="281" y="244" width="12" height="12"/>
-    <rect x="245" y="256" width="12" height="12"/>
-    <rect x="257" y="256" width="12" height="12"/>
-    <rect x="269" y="256" width="12" height="12"/>
-    <rect x="281" y="256" width="12" height="12"/>
-    <rect x="305" y="208" width="12" height="12"/>
-    <rect x="353" y="208" width="12" height="12"/>
-    <rect x="305" y="220" width="12" height="12"/>
-    <rect x="353" y="220" width="12" height="12"/>
-    <rect x="305" y="232" width="12" height="12"/>
-    <rect x="353" y="232" width="12" height="12"/>
-    <rect x="317" y="244" width="12" height="12"/>
-    <rect x="329" y="244" width="12" height="12"/>
-    <rect x="341" y="244" width="12" height="12"/>
-    <rect x="353" y="244" width="12" height="12"/>
-    <rect x="353" y="256" width="12" height="12"/>
-    <rect x="317" y="268" width="12" height="12"/>
-    <rect x="329" y="268" width="12" height="12"/>
-    <rect x="341" y="268" width="12" height="12"/>
-    <rect x="389" y="208" width="12" height="12"/>
-    <rect x="401" y="208" width="12" height="12"/>
-    <rect x="413" y="208" width="12" height="12"/>
-    <rect x="377" y="220" width="12" height="12"/>
-    <rect x="425" y="220" width="12" height="12"/>
-    <rect x="377" y="232" width="12" height="12"/>
-    <rect x="389" y="232" width="12" height="12"/>
-    <rect x="401" y="232" width="12" height="12"/>
-    <rect x="413" y="232" width="12" height="12"/>
-    <rect x="425" y="232" width="12" height="12"/>
-    <rect x="377" y="244" width="12" height="12"/>
-    <rect x="389" y="256" width="12" height="12"/>
-    <rect x="401" y="256" width="12" height="12"/>
-    <rect x="413" y="256" width="12" height="12"/>
-    <rect x="425" y="256" width="12" height="12"/>
-  </g>
-  <path d="M161 296H252M275 296H310" stroke="#4E7798" stroke-width="1.5" stroke-dasharray="3 6"/>
-  <text x="338" y="303" fill="#A0C9E5" font-family="'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" letter-spacing="5">木叶</text>
+  <g id="wordmark" fill="#A0C9E5" shape-rendering="crispEdges" aria-label="IndelibleVivi">
+<rect x="144" y="218" width="11" height="11"/>
+<rect x="155" y="218" width="11" height="11"/>
+<rect x="166" y="218" width="11" height="11"/>
+<rect x="177" y="218" width="11" height="11"/>
+<rect x="188" y="218" width="11" height="11"/>
+<rect x="166" y="229" width="11" height="11"/>
+<rect x="166" y="240" width="11" height="11"/>
+<rect x="166" y="251" width="11" height="11"/>
+<rect x="166" y="262" width="11" height="11"/>
+<rect x="166" y="273" width="11" height="11"/>
+<rect x="144" y="284" width="11" height="11"/>
+<rect x="155" y="284" width="11" height="11"/>
+<rect x="166" y="284" width="11" height="11"/>
+<rect x="177" y="284" width="11" height="11"/>
+<rect x="188" y="284" width="11" height="11"/>
+<rect x="210" y="240" width="11" height="11"/>
+<rect x="221" y="240" width="11" height="11"/>
+<rect x="232" y="240" width="11" height="11"/>
+<rect x="243" y="240" width="11" height="11"/>
+<rect x="210" y="251" width="11" height="11"/>
+<rect x="254" y="251" width="11" height="11"/>
+<rect x="210" y="262" width="11" height="11"/>
+<rect x="254" y="262" width="11" height="11"/>
+<rect x="210" y="273" width="11" height="11"/>
+<rect x="254" y="273" width="11" height="11"/>
+<rect x="210" y="284" width="11" height="11"/>
+<rect x="254" y="284" width="11" height="11"/>
+<rect x="320" y="218" width="11" height="11"/>
+<rect x="320" y="229" width="11" height="11"/>
+<rect x="287" y="240" width="11" height="11"/>
+<rect x="298" y="240" width="11" height="11"/>
+<rect x="309" y="240" width="11" height="11"/>
+<rect x="320" y="240" width="11" height="11"/>
+<rect x="276" y="251" width="11" height="11"/>
+<rect x="320" y="251" width="11" height="11"/>
+<rect x="276" y="262" width="11" height="11"/>
+<rect x="320" y="262" width="11" height="11"/>
+<rect x="276" y="273" width="11" height="11"/>
+<rect x="320" y="273" width="11" height="11"/>
+<rect x="287" y="284" width="11" height="11"/>
+<rect x="298" y="284" width="11" height="11"/>
+<rect x="309" y="284" width="11" height="11"/>
+<rect x="320" y="284" width="11" height="11"/>
+<rect x="353" y="240" width="11" height="11"/>
+<rect x="364" y="240" width="11" height="11"/>
+<rect x="375" y="240" width="11" height="11"/>
+<rect x="342" y="251" width="11" height="11"/>
+<rect x="386" y="251" width="11" height="11"/>
+<rect x="342" y="262" width="11" height="11"/>
+<rect x="353" y="262" width="11" height="11"/>
+<rect x="364" y="262" width="11" height="11"/>
+<rect x="375" y="262" width="11" height="11"/>
+<rect x="386" y="262" width="11" height="11"/>
+<rect x="342" y="273" width="11" height="11"/>
+<rect x="353" y="284" width="11" height="11"/>
+<rect x="364" y="284" width="11" height="11"/>
+<rect x="375" y="284" width="11" height="11"/>
+<rect x="386" y="284" width="11" height="11"/>
+<rect x="419" y="218" width="11" height="11"/>
+<rect x="430" y="218" width="11" height="11"/>
+<rect x="430" y="229" width="11" height="11"/>
+<rect x="430" y="240" width="11" height="11"/>
+<rect x="430" y="251" width="11" height="11"/>
+<rect x="430" y="262" width="11" height="11"/>
+<rect x="430" y="273" width="11" height="11"/>
+<rect x="419" y="284" width="11" height="11"/>
+<rect x="430" y="284" width="11" height="11"/>
+<rect x="441" y="284" width="11" height="11"/>
+<rect x="496" y="218" width="11" height="11"/>
+<rect x="485" y="240" width="11" height="11"/>
+<rect x="496" y="240" width="11" height="11"/>
+<rect x="496" y="251" width="11" height="11"/>
+<rect x="496" y="262" width="11" height="11"/>
+<rect x="496" y="273" width="11" height="11"/>
+<rect x="485" y="284" width="11" height="11"/>
+<rect x="496" y="284" width="11" height="11"/>
+<rect x="507" y="284" width="11" height="11"/>
+<rect x="540" y="218" width="11" height="11"/>
+<rect x="540" y="229" width="11" height="11"/>
+<rect x="540" y="240" width="11" height="11"/>
+<rect x="551" y="240" width="11" height="11"/>
+<rect x="562" y="240" width="11" height="11"/>
+<rect x="573" y="240" width="11" height="11"/>
+<rect x="540" y="251" width="11" height="11"/>
+<rect x="584" y="251" width="11" height="11"/>
+<rect x="540" y="262" width="11" height="11"/>
+<rect x="584" y="262" width="11" height="11"/>
+<rect x="540" y="273" width="11" height="11"/>
+<rect x="584" y="273" width="11" height="11"/>
+<rect x="540" y="284" width="11" height="11"/>
+<rect x="551" y="284" width="11" height="11"/>
+<rect x="562" y="284" width="11" height="11"/>
+<rect x="573" y="284" width="11" height="11"/>
+<rect x="617" y="218" width="11" height="11"/>
+<rect x="628" y="218" width="11" height="11"/>
+<rect x="628" y="229" width="11" height="11"/>
+<rect x="628" y="240" width="11" height="11"/>
+<rect x="628" y="251" width="11" height="11"/>
+<rect x="628" y="262" width="11" height="11"/>
+<rect x="628" y="273" width="11" height="11"/>
+<rect x="617" y="284" width="11" height="11"/>
+<rect x="628" y="284" width="11" height="11"/>
+<rect x="639" y="284" width="11" height="11"/>
+<rect x="683" y="240" width="11" height="11"/>
+<rect x="694" y="240" width="11" height="11"/>
+<rect x="705" y="240" width="11" height="11"/>
+<rect x="672" y="251" width="11" height="11"/>
+<rect x="716" y="251" width="11" height="11"/>
+<rect x="672" y="262" width="11" height="11"/>
+<rect x="683" y="262" width="11" height="11"/>
+<rect x="694" y="262" width="11" height="11"/>
+<rect x="705" y="262" width="11" height="11"/>
+<rect x="716" y="262" width="11" height="11"/>
+<rect x="672" y="273" width="11" height="11"/>
+<rect x="683" y="284" width="11" height="11"/>
+<rect x="694" y="284" width="11" height="11"/>
+<rect x="705" y="284" width="11" height="11"/>
+<rect x="716" y="284" width="11" height="11"/>
+<rect x="738" y="218" width="11" height="11"/>
+<rect x="782" y="218" width="11" height="11"/>
+<rect x="738" y="229" width="11" height="11"/>
+<rect x="782" y="229" width="11" height="11"/>
+<rect x="738" y="240" width="11" height="11"/>
+<rect x="782" y="240" width="11" height="11"/>
+<rect x="738" y="251" width="11" height="11"/>
+<rect x="782" y="251" width="11" height="11"/>
+<rect x="738" y="262" width="11" height="11"/>
+<rect x="782" y="262" width="11" height="11"/>
+<rect x="749" y="273" width="11" height="11"/>
+<rect x="771" y="273" width="11" height="11"/>
+<rect x="760" y="284" width="11" height="11"/>
+<rect x="826" y="218" width="11" height="11"/>
+<rect x="815" y="240" width="11" height="11"/>
+<rect x="826" y="240" width="11" height="11"/>
+<rect x="826" y="251" width="11" height="11"/>
+<rect x="826" y="262" width="11" height="11"/>
+<rect x="826" y="273" width="11" height="11"/>
+<rect x="815" y="284" width="11" height="11"/>
+<rect x="826" y="284" width="11" height="11"/>
+<rect x="837" y="284" width="11" height="11"/>
+<rect x="870" y="240" width="11" height="11"/>
+<rect x="914" y="240" width="11" height="11"/>
+<rect x="870" y="251" width="11" height="11"/>
+<rect x="914" y="251" width="11" height="11"/>
+<rect x="870" y="262" width="11" height="11"/>
+<rect x="914" y="262" width="11" height="11"/>
+<rect x="881" y="273" width="11" height="11"/>
+<rect x="903" y="273" width="11" height="11"/>
+<rect x="892" y="284" width="11" height="11"/>
+<rect x="958" y="218" width="11" height="11"/>
+<rect x="947" y="240" width="11" height="11"/>
+<rect x="958" y="240" width="11" height="11"/>
+<rect x="958" y="251" width="11" height="11"/>
+<rect x="958" y="262" width="11" height="11"/>
+<rect x="958" y="273" width="11" height="11"/>
+<rect x="947" y="284" width="11" height="11"/>
+<rect x="958" y="284" width="11" height="11"/>
+<rect x="969" y="284" width="11" height="11"/>
+</g>
   <!-- Tail, back, and a soft belly lying along the page edge. -->
   <g stroke="#A0C9E5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
     <path d="M1041 97C1082 98 1110 81 1104 57C1101 44 1085 42 1080 53C1077 60 1083 67 1090 63" stroke-width="13" stroke="#19344D"/>
@@ -119,15 +218,15 @@
     <path d="M778 63H793V67H789V71H785V75H793V79H778V75H782V71H786V67H778Z"/>
     <path d="M752 38H764V41H761V44H758V47H764V50H752V47H755V44H758V41H752Z" opacity=".55"/>
     <use href="#tiny" transform="translate(1026 24) scale(.5)"/>
-    <rect x="462" y="262" width="4" height="4"/><rect x="591" y="241" width="4" height="4"/>
+
     <rect x="701" y="174" width="4" height="4"/>
   </g>
-  <g transform="translate(942 241) rotate(-12)" stroke="#4E7798" stroke-width="1.8" stroke-linejoin="round">
+  <g transform="translate(1043 195) rotate(-12)" stroke="#4E7798" stroke-width="1.8" stroke-linejoin="round">
     <path d="M-36 0C-21-15-5-15 7 0C-5 15-21 15-36 0ZM7 0L22-12V12Z" fill="#19344D"/>
     <circle cx="-25" cy="-2" r="1.7" fill="#A0C9E5" stroke="none"/>
     <path d="M-9-7V7M-51 0H-58M-62 0H-65"/>
   </g>
-  <use href="#paw" transform="translate(815 289) rotate(24) scale(.8)" opacity=".42"/>
-  <use href="#paw" transform="translate(854 303) rotate(10) scale(.8)" opacity=".65"/>
+  <use href="#paw" transform="translate(450 323) rotate(24) scale(.8)" opacity=".42"/>
+  <use href="#paw" transform="translate(490 330) rotate(10) scale(.8)" opacity=".65"/>
   <use href="#tiny" transform="translate(1005 300) scale(.45)" fill="#668FAF" opacity=".65"/>
 </svg>

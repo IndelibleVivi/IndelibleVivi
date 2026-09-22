@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">Little cat and rabbit letters travelling between companions</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#11202D"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#547991" stroke-width="1.2"/>
+<g stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M103 105Q242 6 403 105M111 171Q247 232 401 163" stroke="#547991" stroke-dasharray="4 7"/>
+<path d="M389 92L404 105L385 106M118 162L106 171L121 177" stroke="#547991"/>
+<g transform="translate(65 91) rotate(-9)"><rect width="140" height="84" rx="5" fill="#172B3C"/><path d="M0 0L70 51L140 0M0 84L47 34M140 84L95 34" stroke="#547991"/></g>
+<g transform="translate(313 102) rotate(9)"><rect width="130" height="78" rx="5" fill="#172B3C"/><path d="M0 0L65 47L130 0M0 78L42 31M130 78L88 31" stroke="#547991"/></g>
+<path d="M208 67L210 43Q212 33 222 46L231 58Q249 53 266 58L279 44Q287 36 288 49L290 70Q307 96 281 111Q248 127 217 110Q194 93 208 67Z" fill="#39334C"/>
+<path d="M224 84Q230 90 236 84M264 84Q270 90 276 84M244 96L249 99L254 96"/>
+<path d="M242 120V143M232 132L242 143L253 132" stroke="#547991"/>
+<use href="#spark" transform="translate(250 179)"/>
+<path d="M111 52h5v5h5v-5h5v10h-5v5h-5v-5h-5Z" fill="#A998BC" stroke="none"/>
+</g>
+<g fill="#547991"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>

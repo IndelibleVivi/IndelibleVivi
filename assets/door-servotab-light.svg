@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title"><title id="title">A small toolbox with a pencil, spanner, and a sprig</title><defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#F1F7FB"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#9DBDCF" stroke-width="1.2"/>
+<g stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M137 113H383V190H137Z" fill="#FBFDFF"/>
+<path d="M145 103H375L387 116H133Z" fill="#E6F0EB"/>
+<path d="M155 141H365M243 142V162H277V142" stroke="#9DBDCF"/>
+<path d="M236 102V87Q236 80 243 80H277Q284 80 284 87V102"/>
+<g transform="translate(174 40) rotate(-15)"><path d="M0 67V8L7-4L14 8V67Z" fill="#E6F0EB"/><path d="M0 8H14M7-4V2M7 12V61" stroke="#9DBDCF"/></g>
+<path d="M320 102V63Q302 54 309 35L319 48L330 45L334 34Q349 54 332 64V102" fill="#FBFDFF"/>
+<path d="M102 167V118Q90 99 76 109Q77 129 101 129M103 153Q121 146 126 128Q106 125 103 145" stroke="#9DBDCF" fill="#E6F0EB"/>
+<use href="#spark" transform="translate(396 61)"/>
+<path d="M406 164L414 172L432 150" stroke="#93B2A8" stroke-width="4"/>
+</g>
+<g fill="#9DBDCF"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g></svg>
