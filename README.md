@@ -15,7 +15,7 @@
 
 ### ｡･:* 挑一扇门，进去逛逛
 
-点画就能进入网页。也给想翻源码的朋友留了 GitHub 小门。
+点画就能走进项目。有独立网页的，也给想翻源码的朋友留了 GitHub 小门。
 
 <table>
 <tr>
@@ -54,17 +54,16 @@
 <sub><a href="https://indeliblevivi.github.io/mcp-boundary/zh/">看指南与实验 ↗</a> · <a href="https://github.com/IndelibleVivi/mcp-boundary">GitHub</a></sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://indeliblevivi.github.io/fakao-sprint-2026/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/door-reading-dark.svg"><img src="assets/door-reading-light.svg" alt="Books and a cup of tea. Open the 2026 Chinese legal exam reading edition." width="420"></picture></a><br>
-<strong><a href="https://indeliblevivi.github.io/fakao-sprint-2026/">2026 法考阅读本</a></strong><br>
-翻一科，找一个词，带走一份 PDF。<br>
-<sub><a href="https://indeliblevivi.github.io/fakao-sprint-2026/">翻开阅读本 ↗</a> · <a href="https://github.com/IndelibleVivi/fakao-sprint-2026">GitHub</a></sub>
+<a href="https://github.com/IndelibleVivi/Relata"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/door-relata-dark.svg"><img src="assets/door-relata-light.svg" alt="Two pixel stars joined by a winding thread. Explore Relata, a research program about memory and continuity in human–AI relationships." width="420"></picture></a><br>
+<strong><a href="https://github.com/IndelibleVivi/Relata">Relata</a></strong><br>
+AI 怎样记得一个人，和一起走过的日常？<br>
+<sub><a href="https://github.com/IndelibleVivi/Relata">走进研究仓库 ↗</a> · 正在起步</sub>
 </td>
 </tr>
 </table>
 
 #### ･ﾟ 还有一些正在长大
 
-[**Relata**](https://github.com/IndelibleVivi/Relata) — AI 怎样记得一个人，和一起走过的日常？一个正在起步的研究计划。<br>
 [**Frontend Craft**](https://github.com/IndelibleVivi/frontend-craft) — 把脑海里的画面，一点点做成真实的界面。
 
 [沿着爪印，看看其他仓库 ↗](https://github.com/IndelibleVivi?tab=repositories)
@@ -79,9 +78,9 @@ The drawings above are little doors into my projects:
 - **Worker Routing** — multi-model delegation for Codex, with a public example of the local Dispatch dashboard.
 - **Servotab** — engineering methods for planning, building, debugging, reviewing, and verifying work with Codex.
 - **MCP Boundary** — MCP engineering guidance, with a field guide and executable lab.
-- **2026 Chinese Legal Exam Reading Edition** — searchable reading materials and PDFs for the 2026 exam.
+- **Relata** — a research program about memory and continuity in human–AI relationships. Still taking shape; the drawing opens its research repository.
 
-Also growing: **Relata**, a research program about memory and continuity in human–AI relationships, and **Frontend Craft**, a skill for making and refining interfaces.
+Also growing: **Frontend Craft**, a skill for making and refining interfaces.
 
 </details>
 

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Two stars, a thread between them</title><desc id="desc">Two blue pixel stars are joined by a gently winding thread with a small loop at its centre. Tiny stars and loose stitches surround them.</desc>
+<defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#11202D"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#547991" stroke-width="1.2"/>
+<g stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M108 97C64 71 78 34 133 38C174 41 188 73 164 89M369 116C417 104 444 118 441 145C439 171 402 184 372 164" stroke="#547991" stroke-dasharray="3 6"/>
+<path d="M155 97C201 45 237 68 254 106C279 161 226 167 230 129C234 93 297 77 352 116" stroke="#547991" stroke-width="3"/>
+<use href="#spark" transform="translate(137 97) scale(2.5)" fill="#284A62"/>
+<use href="#spark" transform="translate(379 116) scale(2.1)" fill="#39334C"/>
+<path d="M248 121C237 105 226 105 229 115C231 124 247 127 256 124C271 120 274 109 267 109C260 110 253 123 249 137" stroke="#A998BC" stroke-width="2"/>
+<use href="#spark" transform="translate(306 44) scale(.65)"/>
+<use href="#spark" transform="translate(84 165) scale(.5)"/>
+<path d="M151 182C201 204 298 206 348 181" stroke="#547991" stroke-dasharray="2 7"/>
+</g>
+<g fill="#547991"><circle cx="213" cy="40" r="2.5"/><circle cx="329" cy="159" r="2.5"/><rect x="443" y="69" width="4" height="4"/><rect x="198" y="155" width="4" height="4"/><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g>
+</svg>
