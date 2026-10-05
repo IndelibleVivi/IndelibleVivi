@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title desc" lang="en">
+<title id="title">A cloud bookmark floating above an open fieldbook</title>
+<desc id="desc">A sleepy cloud marks the pages of CF Fieldbook, an independent guide to Cloudflare services and practice.</desc>
+<defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#F1F7FB"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#9DBDCF" stroke-width="1.2"/>
+
+<g id="fieldbook" stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M141 161L262 190L382 155L263 127Z" fill="#EDE9F5"/>
+<path d="M141 151V162L262 194L382 160V149M262 182V194" stroke="#9DBDCF"/>
+<path d="M141 137Q197 121 262 151Q320 115 382 130V155Q317 141 262 180Q204 151 141 161Z" fill="#FBFDFF"/>
+<path d="M262 151V180M156 145Q205 137 247 159M280 157Q318 139 364 140" stroke="#9DBDCF"/>
+<path d="M231 129V174L243 165L253 178V141" fill="#DDEEF8"/>
+</g>
+<g id="cloud-bookmark" stroke="#527D9B" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M204 105C176 105 177 73 199 70C196 44 231 35 247 56C266 23 311 36 311 64C341 59 350 104 321 106Z" fill="#FBFDFF"/>
+<path d="M239 89Q245 95 251 89M277 89Q283 95 289 89"/>
+<path d="M265 108V125M264 128V143" stroke="#9DBDCF" stroke-dasharray="3 5"/>
+<path d="M356 55H372M364 47V63M111 101H123M117 95V107" stroke="#9DBDCF"/>
+<use href="#spark" transform="translate(392 107) scale(.7)"/>
+</g>
+<g id="small-notes" stroke="#9DBDCF" stroke-width="1.5" stroke-linecap="round">
+<path d="M98 183Q115 178 128 185M397 185Q412 177 430 181"/>
+<path d="M98 162L100 148L106 155L114 153L113 165Z" fill="#EDE9F5"/>
+</g>
+<g fill="#9DBDCF"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g>
+</svg>

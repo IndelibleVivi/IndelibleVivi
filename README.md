@@ -10,8 +10,30 @@
   可以叫我木叶！～ 💭 🩵
 </p>
 
-这里有记忆、音乐、一起做事的小工具，也有读书留下的东西。<br>
-喜欢的东西，慢慢搭成了这些地方。
+<p>这里是 Faye / 木叶的小小落脚处。<br>
+有记忆、音乐、一起做事的小工具，也有读书留下的东西。<br>
+喜欢的东西，慢慢搭成了这些地方。</p>
+
+### ｡･:* 最近带回来的两本小书
+
+一边认识云里的东西，一边把自己的服务安顿好。
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://indeliblevivi.github.io/cf-fieldbook/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/door-fieldbook-dark.svg"><img src="assets/door-fieldbook-light.svg" alt="A cloud bookmark above an open book. Read CF Fieldbook, an independent Cloudflare guide." width="420"></picture></a><br>
+<strong><a href="https://indeliblevivi.github.io/cf-fieldbook/">CF Fieldbook</a></strong><br>
+Cloudflare 的用途、选择与实践，慢慢翻。<br>
+<sub><a href="https://indeliblevivi.github.io/cf-fieldbook/">翻开云边手册 ↗</a> · <a href="https://github.com/IndelibleVivi/cf-fieldbook">GitHub</a></sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://indeliblevivi.github.io/infra-field-guide/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/door-infra-dark.svg"><img src="assets/door-infra-light.svg" alt="A cat watches over two servers under a little lamp. Read Infra Field Guide for VPS, networking, backups, and recovery." width="420"></picture></a><br>
+<strong><a href="https://indeliblevivi.github.io/infra-field-guide/">Infra Field Guide</a></strong><br>
+从第一台 VPS，到能安心搬家的小系统。<br>
+<sub><a href="https://indeliblevivi.github.io/infra-field-guide/">点亮一盏小灯 ↗</a> · <a href="https://github.com/IndelibleVivi/infra-field-guide">GitHub</a></sub>
+</td>
+</tr>
+</table>
 
 ### ｡･:* 挑一扇门，进去逛逛
 
@@ -62,7 +84,13 @@ AI 怎样记得一个人，和一起走过的日常？<br>
 </tr>
 </table>
 
-#### ･ﾟ 还有一些正在长大
+### ｡･:* 工作台边，还长出了这些
+
+[**见地 · Soundings**](https://github.com/IndelibleVivi/soundings) — 访求、会通、营造、辨定。四种独立的 Codex 方法，陪问题变清楚，也陪想法长成作品。
+
+[**Lintel**](https://github.com/IndelibleVivi/lintel-cc) — 给 Claude 的本地使用环境理理线，收好设置、工作资料与变更记录。<sub>开发中 · macOS / CLI</sub>
+
+[**Espalier**](https://github.com/IndelibleVivi/espalier) — 为长久的人与 agent 协作搭一座花架，让目标、决定和交接有地方落脚。<sub>开发者预览</sub>
 
 [**Frontend Craft**](https://github.com/IndelibleVivi/frontend-craft) — 把脑海里的画面，一点点做成真实的界面。
 
@@ -71,7 +99,14 @@ AI 怎样记得一个人，和一起走过的日常？<br>
 <details>
 <summary>A little more, in English</summary>
 
-The drawings above are little doors into my projects:
+I'm Faye, also known as 木叶 (Muye). These are little doors into my projects: agent memory, human–AI collaboration, music, Codex tools, and personal infrastructure.
+
+The two newest reading rooms:
+
+- [**CF Fieldbook**](https://indeliblevivi.github.io/cf-fieldbook/) — an independent Chinese-language guide to Cloudflare services, practical choices, and inspectable examples.
+- [**Infra Field Guide**](https://indeliblevivi.github.io/infra-field-guide/) — a Chinese field guide to VPS, networking, backups, migration, and recovery, for people and their agents.
+
+More doors to wander through:
 
 - **Refrain** — a music demo for agent-authored pieces you can hear and keep.
 - **Agent Memory Study** — source-linked readings, research maps, and reproducible studies of agent memory.
@@ -80,7 +115,12 @@ The drawings above are little doors into my projects:
 - **MCP Boundary** — MCP engineering guidance, with a field guide and executable lab.
 - **Relata** — a research program about memory and continuity in human–AI relationships. Still taking shape; the drawing opens its research repository.
 
-Also growing: **Frontend Craft**, a skill for making and refining interfaces.
+At the workbench:
+
+- [**Soundings**](https://github.com/IndelibleVivi/soundings) — four independent Codex methods for research, understanding, creative work, and judgment.
+- [**Lintel**](https://github.com/IndelibleVivi/lintel-cc) — local Claude environment controls, work preservation, and change records for macOS and CLI. A development candidate, not a finished release.
+- [**Espalier**](https://github.com/IndelibleVivi/espalier) — local coordination for long-running human–agent projects: goals, decisions, evidence, and handoffs. Developer preview.
+- [**Frontend Craft**](https://github.com/IndelibleVivi/frontend-craft) — a Codex skill for making and refining interfaces.
 
 </details>
 

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="230" viewBox="0 0 520 230" fill="none" role="img" aria-labelledby="title desc" lang="en">
+<title id="title">A lamplit little home for servers, watched over by a cat</title>
+<desc id="desc">Two small servers rest under a roof and a reading lamp, with a cat watching their connecting thread.</desc>
+<defs><path id="spark" d="M-3-12H3V-3H12V3H3V12H-3V3H-12V-3H-3Z"/></defs>
+<rect width="520" height="230" rx="8" fill="#11202D"/>
+<path d="M19 38V19H38M482 211H501V192" stroke="#547991" stroke-width="1.2"/>
+
+<g id="little-lamplight" stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M337 185V88Q337 54 306 54H286M281 49H292V60H281Z"/>
+<path d="M272 62H301L313 84H260Z" fill="#284A62"/>
+<path d="M271 97L265 104M287 99V109M303 97L309 104" stroke="#547991"/>
+<path d="M320 190H354"/>
+</g>
+<g id="server-home" stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M124 94L212 49L279 91"/>
+<path d="M139 91V182H272V91" stroke="#547991"/>
+<rect x="159" y="105" width="96" height="34" rx="5" fill="#172B3C"/>
+<rect x="159" y="145" width="96" height="34" rx="5" fill="#172B3C"/>
+<circle cx="175" cy="122" r="3" fill="#284A62"/><circle cx="175" cy="162" r="3" fill="#284A62"/>
+<path d="M194 120H236M194 127H224M194 159H236M194 166H224" stroke="#547991"/>
+<path d="M208 180V197H362Q381 197 381 179" stroke="#547991" stroke-dasharray="4 5"/>
+</g>
+<g id="watchful-cat" stroke="#A1C6DE" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M366 149L367 132L379 142Q389 137 400 142L411 132L412 151Q424 170 406 181H373Q353 170 366 149Z" fill="#343449"/>
+<path d="M373 159Q377 163 381 159M397 159Q401 163 405 159M385 169L389 172L393 169"/>
+<path d="M410 180Q437 187 432 166Q430 158 424 163"/>
+<use href="#spark" transform="translate(102 136) scale(.7)"/>
+<path d="M362 68H374M368 62V74" stroke="#547991"/>
+</g>
+<g fill="#547991"><rect x="34" y="185" width="3" height="3"/><rect x="475" y="32" width="3" height="3"/><rect x="483" y="40" width="3" height="3"/></g>
+</svg>
